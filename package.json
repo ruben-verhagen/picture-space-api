@@ -1,0 +1,18 @@
+{
+  "name": "PictureSpace",
+  "version": "0.1.1",
+  "private": true,
+  "dependencies": {
+    "express": "^4.6.1",
+    "mongoose" : "*",
+    "mongodb" : ">1.4.0",
+    "moment": "*",
+    "validator": ">3.0.0",
+    "body-parser": ">1.4.0",
+    "nodemailer": ">1.0.0",
+    "nodemailer-smtp-transport" : ">1.0.0",
+    "tmp": "*",
+    "async": "*",
+    "fb": "0.7.0"
+  }
+}
