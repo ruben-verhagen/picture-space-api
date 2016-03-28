@@ -60,7 +60,7 @@ where <port> is the port configured in /etc/mongod.conf, 27017 by default.
 
 #### Copy the project files
 You can git clone the project from github repository or upload the files via FTP to the server.
-> git clone https://github.com/ruben-verhagen/ruby-whois-batch.git
+> git clone https://github.com/ruben-verhagen/picture-space-api.git
 
 > cd picture-space/
 

@@ -233,7 +233,7 @@ function sendPassword(email, fn) {
                     var nodemailer = require('nodemailer');
                     var transporter = nodemailer.createTransport({
                         service: "Gmail",
-                            auth: {
+                        auth: {
                             user: "yourmail@yourdomain.com",
                             pass: "yourpassword"
                         }
